@@ -1,7 +1,7 @@
 ## Riesgos
-Identifica riesgos potenciales y cómo mitigarlos. Se desarrollará en la clase correspondiente a la semana 03.
+Identifica riesgos potenciales y cómo mitigarlos.
 
-## Ejemplo de lo que se espera: Tabla de riesgos
+## Tabla de riesgos
 | ID | Riesgo | Probabilidad | Impacto | Mitigación |
 |----|--------|--------------|---------|------------|
 | R1 | Retraso en la recolección de requisitos por parte de la docente | Media | Alta | Planificar reuniones anticipadas y definir entregables claros |
