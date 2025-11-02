@@ -48,8 +48,8 @@ RF-10 – Calcular Nivel C/B/A
         checksCorrectos = contarChecksPositivos(estudiante)
         porcentaje = (checksCorrectos / totalChecks) * 100
     
-        SI porcentaje >= 90 entonces nivel = "A"
-        SINO SI porcentaje >= 70 entonces nivel = "B"
+        SI porcentaje >= 16 entonces nivel = "A"
+        SINO SI porcentaje >= 11 entonces nivel = "B"
            SINO nivel = "C"
 
         guardarNivel(estudiante, nivel)
