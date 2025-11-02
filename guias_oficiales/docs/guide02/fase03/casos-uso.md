@@ -9,22 +9,21 @@ Diagramas y documentación de cada uno de los casos de uso. Con respecto a la do
 
 
 ID: RF-01  
+<img width="722" height="396" alt="gestionar planificacion anual" src="https://github.com/user-attachments/assets/d9f154e9-5a23-45ad-8e36-a4d92832020d" />  
 
-<img width="736" height="415" alt="gestionar planificacion anual" src="https://github.com/user-attachments/assets/c8fbe05a-9ba1-46b7-888b-11a570e88203" />  
 
 
 ID: RF-04  
-
-<img width="720" height="325" alt="getsionar sesiones de aprendizaje" src="https://github.com/user-attachments/assets/b022dbaa-3f49-40bc-a834-8e58637700a9" />  
+<img width="671" height="340" alt="getsionar sesiones de aprendizaje" src="https://github.com/user-attachments/assets/1dedd802-7c82-4716-a35f-57c1f4e9dde0" />  
 
 
 ID: RF-06  
-<img width="717" height="356" alt="getsion de asistencia" src="https://github.com/user-attachments/assets/3bddc568-bfdd-47a2-af12-019852f7c024" />  
+<img width="741" height="446" alt="getsion de asistencia" src="https://github.com/user-attachments/assets/0427e5fd-b1f1-4cf5-a71d-4b7bfaaba6b1" />
 
 
 
 ID: RU-13  
-<img width="774" height="454" alt="gesotion de modulos" src="https://github.com/user-attachments/assets/e85ba6f3-903b-4fd3-a628-70616c6569e0" />  
+<img width="757" height="462" alt="gesotion de modulos" src="https://github.com/user-attachments/assets/69a233d7-549c-48d2-95bc-0bbfb01fbc3a" />   
 
 
 
