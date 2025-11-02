@@ -32,7 +32,7 @@ Durante el proceso de validación se revisaron todos los requisitos de usuario, 
 | RU-07 | Registro de asistencia. | Alineación y viabilidad técnica. | Aprobado | Compatible con el módulo de desempeño y reportes. |
 | RU-08–RU-11 | Registro de capacidades, cálculo automático de desempeño, recálculo, reportes y usabilidad. | Alineación, buenas prácticas y viabilidad. | Aprobado | Confirmados por la docente; no generan ambigüedad. |
 | RU-12 | Interfaz simple e intuitiva. | Usabilidad y experiencia del usuario. | Aprobado | Reflejado en los wireframes del anexo A. |
-| RU-13–RU-16 | Módulo individual del estudiante, historial, observaciones. | Interpretación correcta del requerimiento del cliente. | ✅ Aprobado | Aporta valor y coherencia con la estructura pedagógica. |
+| RU-13–RU-16 | Módulo individual del estudiante, historial, observaciones. | Interpretación correcta del requerimiento del cliente. | Aprobado | Aporta valor y coherencia con la estructura pedagógica. |
 | RU-17–RU-18 | Alertas y configuración de umbrales de faltas. | Alineación, viabilidad técnica. | Aprobado | Implementables con lógica simple en el módulo de asistencia. |
 | RU-19 | Grupos de trabajo automáticos. | Relevancia y valor al proyecto. | Rechazado | No aporta valor significativo al trabajo de la profesora. |
 | RU-20–RU-21 | Autenticación y gestión de grados/secciones. | Alineación con los objetivos y restricciones de tiempo. | Rechazado | Excede el alcance actual. |
