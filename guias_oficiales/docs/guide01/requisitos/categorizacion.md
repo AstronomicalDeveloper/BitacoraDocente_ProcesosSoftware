@@ -19,7 +19,7 @@ Representa los requisitos que debe soportar el software es decir que el software
 | RF-10 | **Calcular automáticamente** el porcentaje de capacidades cumplidas y asignar el nivel: **C (0–33%)**, **B (34–66%)**, **A (67–100%)**. | Automatizar la evaluación y reducir errores. |
 | RF-11 | **Recalcular automáticamente** el porcentaje y nivel al modificar un check o el conjunto de capacidades de una sesión. | Asegurar consistencia en la evaluación. |
 | RF-12 | Proveer un **módulo individual de estudiante** que consolide desempeño (porcentaje y nivel C/B/A) y asistencia por fechas/sesiones/unidades. | Vista 360° para seguimiento por alumno. |
-| RF-013 | Crear, modificar y eliminar las **áreas curriculares** que contenga a las competencias y capacidades. | Ayuda a la organización del proyecto. |
+| RF-13 | Crear, modificar y eliminar las **áreas curriculares** que contenga a las competencias y capacidades. | Ayuda a la organización del proyecto. |
 
 ## Requisitos funcionales de mejora
 Los siguientes requisitos representan **mejoras o extensiones** de las funcionalidades mandatorias del sistema.  
