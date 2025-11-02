@@ -18,9 +18,8 @@ Representa los requisitos que debe soportar el software es decir que el software
 | RF-09 | Registrar el **cumplimiento de capacidades** por estudiante mediante un sistema de checks. | Llevar control individual del aprendizaje. |
 | RF-10 | **Calcular automáticamente** el porcentaje de capacidades cumplidas y asignar el nivel: **C (0–33%)**, **B (34–66%)**, **A (67–100%)**. | Automatizar la evaluación y reducir errores. |
 | RF-11 | **Recalcular automáticamente** el porcentaje y nivel al modificar un check o el conjunto de capacidades de una sesión. | Asegurar consistencia en la evaluación. |
-| RF-12 | Generar **reportes consolidados** de desempeño y asistencia por estudiante, sesión, unidad o planificación anual. | Proveer información resumida para seguimiento académico. |
-| RF-13 | Proveer un **módulo individual de estudiante** que consolide desempeño (porcentaje y nivel C/B/A) y asistencia por fechas/sesiones/unidades. | Vista 360° para seguimiento por alumno. |
-| RF-014 | Crear, modificar y eliminar las **áreas curriculares** que contenga a las competencias y capacidades. | Ayuda a la organización del proyecto. |
+| RF-12 | Proveer un **módulo individual de estudiante** que consolide desempeño (porcentaje y nivel C/B/A) y asistencia por fechas/sesiones/unidades. | Vista 360° para seguimiento por alumno. |
+| RF-013 | Crear, modificar y eliminar las **áreas curriculares** que contenga a las competencias y capacidades. | Ayuda a la organización del proyecto. |
 
 ## Requisitos funcionales de mejora
 Los siguientes requisitos representan **mejoras o extensiones** de las funcionalidades mandatorias del sistema.  
@@ -48,3 +47,4 @@ Por lo tanto, **no serán implementados en la versión actual** del sistema.
 | RFNV-05 | Módulo de **grados y secciones**. | El sistema está enfocado en una sola aula; incluir estructura por grados y secciones no es relevante ni necesario. |
 | RFNV-06 | Función de **asignar estudiantes a grados y secciones**. | La profesora trabaja con un único grupo estable durante el año escolar. |
 | RFNV-07 | Módulo de **autorización por roles** (administrador, docente, asistente). | No existen otros usuarios; los roles no son aplicables al alcance del sistema. |
+| RFNV-08 | Generar **reportes consolidados** de desempeño y asistencia por estudiante, sesión, unidad o planificación anual. | Proveer información resumida para seguimiento académico. |
