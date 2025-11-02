@@ -14,13 +14,13 @@ A continuación, se presenta la matriz de riesgos identificados para el sistema 
 | **R4** | Escasez de conocimientos técnicos del equipo de desarrollo en la integración con bases de datos MariaDB o gestión de conexiones. | Media | Medio | Brindar capacitación técnica al equipo, utilizar guías y documentación oficial de MariaDB |
 | **R5** | Problemas de compatibilidad del sistema en navegadores diferentes, afectando la experiencia del usuario. | Baja | Medio | Pruebas de interfaz en Chrome, Edge y Firefox |
 | **R6** | Cambios en los requerimientos del sistema por ajustes curriculares o administrativos durante el ciclo escolar. | Media | Alta | Aplicar control de versiones en los requisitos, mantener comunicación continua con la docente y usar metodologías ágiles que faciliten la adaptación. |
-
+    
 La gestión de riesgos se realizó siguiendo un enfoque proactivo, donde se identificaron, evaluaron y clasificaron los riesgos en las etapas iniciales del proyecto.
 Cada riesgo fue categorizado según:
 
-Probabilidad: frecuencia o posibilidad de ocurrencia.
-Impacto: magnitud del efecto en caso de que ocurra.
-Mitigación: estrategias para prevenir o reducir consecuencias.
+-**Probabilidad**: frecuencia o posibilidad de ocurrencia.
+-**Impacto**: magnitud del efecto en caso de que ocurra.
+-**Mitigación**: estrategias para prevenir o reducir consecuencias.
 
 Se utilizó una escala cualitativa (Alta, Media, Baja) para evaluar estos parámetros, y se definieron acciones preventivas y planes de contingencia.
 
