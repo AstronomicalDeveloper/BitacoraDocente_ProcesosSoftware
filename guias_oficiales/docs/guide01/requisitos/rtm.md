@@ -16,9 +16,8 @@ Los requisitos funcionales se expresan en lenguaje técnico a partir de los requ
 | RF-09 | **Registrar checks** de capacidades | RU-08 | Fuente de verdad (detalle). |
 | RF-10 | **Calcular nivel** C/B/A | RU-09 | Nota derivada, no manual. |
 | RF-11 | **Re-cálculo** ante cambios | RU-10 | Consistencia automática. |
-| RF-12 | **Reportes** | RU-11 | Estudiante/sesión/unidad/anual. |
-| RF-13 | **Módulo estudiante** (historial + observaciones) | RU-13, RU-14, RU-15, RU-16 | Consolida desempeño y asistencia. |
-| RF-14 | CRUD **Áreas curriculares** | RU-05 | Normaliza competencias/capacidades por área. |
+| RF-12 | **Módulo estudiante** (historial + observaciones) | RU-13, RU-14, RU-15, RU-16 | Consolida desempeño y asistencia. |
+| RF-13 | CRUD **Áreas curriculares** | RU-05 | Normaliza competencias/capacidades por área. |
   
 ## Requisitos no funcionales
 ### Portabilidad del software
@@ -73,3 +72,4 @@ Los requisitos funcionales se expresan en lenguaje técnico a partir de los requ
 | Grupos de trabajo automáticos | RU-19 | RFNV-01 | Rechazado | No aporta valor al objetivo del sistema. |
 | Autenticación | RU-20 | RFNV-03 | Rechazado | Monousuario local; agrega complejidad. |
 | Grados y secciones | RU-21 | RFNV-05/06 | Rechazado | Una sola aula; fuera de alcance. |
+| Reportes | RU-11 | RFNV-08 | Rechazado | No aporta valor al objetivo del sistema. |
