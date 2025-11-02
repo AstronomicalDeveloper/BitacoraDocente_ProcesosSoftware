@@ -5,6 +5,7 @@ RF-04 – CRUD de Sesiones
 
 
     funcion_moduloSesiones()
+    inicio
         MOSTRAR "1. Crear sesión"
         MOSTRAR "2. Ver sesiones"
         MOSTRAR "3. Editar sesión"
@@ -24,6 +25,7 @@ RF-06 – Registrar Asistencia por Sesión
 
 
     funcion_registrarAsistencia()
+    inicio
         MOSTRAR "Ingrese ID de sesión:"
         LEER idSesion
         listaEstudiantes = obtenerEstudiantesPorSesion(idSesion)
@@ -41,7 +43,7 @@ RF-10 – Calcular Nivel C/B/A
 
 
     funcion_calcularNivel(estudiante)
-
+    inicio
         totalChecks = contarChecks(estudiante)
         checksCorrectos = contarChecksPositivos(estudiante)
         porcentaje = (checksCorrectos / totalChecks) * 100
