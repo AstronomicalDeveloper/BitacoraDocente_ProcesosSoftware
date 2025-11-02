@@ -69,7 +69,7 @@ Los requisitos funcionales se expresan en lenguaje técnico a partir de los requ
 
 | Propuesta | RU | Etiqueta RFNV | Decisión | Motivo |
 |---|---|---|---|---|
+| Reportes | RU-11 | RFNV-08 | Rechazado | No aporta valor al objetivo del sistema. |
 | Grupos de trabajo automáticos | RU-19 | RFNV-01 | Rechazado | No aporta valor al objetivo del sistema. |
 | Autenticación | RU-20 | RFNV-03 | Rechazado | Monousuario local; agrega complejidad. |
 | Grados y secciones | RU-21 | RFNV-05/06 | Rechazado | Una sola aula; fuera de alcance. |
-| Reportes | RU-11 | RFNV-08 | Rechazado | No aporta valor al objetivo del sistema. |
