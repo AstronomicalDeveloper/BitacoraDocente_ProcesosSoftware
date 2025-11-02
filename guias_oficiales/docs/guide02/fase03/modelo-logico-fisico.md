@@ -1,8 +1,7 @@
 ## Modelo lógico-físico de datos (Opcional):
 
-En caso de que el ED decida trabajar con base de datos, podrá utilizar el motor de base de datos en el que tenga mejor dominio (u otra herramienta de base de datos que el equipo de desarrollo haya investigado). Asimismo, podrán utilizar el MySQL WorkBench para diseñar su modelo lógico y físico de datos
-de acuerdo con lo desarrollado en clase.
+El presente diagrama de clases UML, elaborado en StarUML, representa el modelo lógico–físico del sistema de gestión de planificación, asistencia y desempeño estudiantil. En él se muestran las entidades principales del dominio educativo, sus atributos, relaciones y dependencias jerárquicas, permitiendo visualizar cómo se organiza la información dentro del sistema.
 
-- Genera y sube la imagen del modelo de datos físico.
-- Imagen en formato .png, .jpg
-- Resolución de 300 dpi de la imagen.
+Este diagrama sirve como base para el diseño de la base de datos y la posterior implementación del sistema, garantizando la integridad referencial y la correcta representación de las relaciones entre los distintos componentes académicos.
+
+<img width="1368" height="1080" alt="UML" src="https://github.com/user-attachments/assets/8e21714b-7a67-4cab-982c-9102b3f6e624" />
