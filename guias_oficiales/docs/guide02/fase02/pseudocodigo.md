@@ -41,21 +41,25 @@ RF-06 – Registrar Asistencia por Sesión
 
 RF-10 – Calcular Nivel C/B/A
 
-
-    funcion_calcularNivel(estudiante)
+    funcion calcularNiveles()
     inicio
-        totalChecks = contarChecks(estudiante)
-        checksCorrectos = contarChecksPositivos(estudiante)
-        porcentaje = (checksCorrectos / totalChecks) * 100
-    
-        SI porcentaje >= 90 entonces nivel = "A"
-        SINO SI porcentaje >= 60 entonces nivel = "B"
-           SINO nivel = "C"
+        listaEstudiantes = obtenerTodosLosEstudiantes()
 
-        guardarNivel(estudiante, nivel)
-        finfuncion
-        SINO nivel = "C"
-        fin
+        PARA cada estudiante EN listaEstudiantes
+            MOSTRAR "Ingrese nota (0–20) de ", estudiante.nombre, ":"
+            LEER nota
 
-        guardarNivel(estudiante, nivel)
+            SI nota >= 16 ENTONCES
+                nivel = "A"
+            SINO SI nota >= 11 ENTONCES
+                nivel = "B"
+            SINO
+                nivel = "C"
+            FIN SI
+
+            guardarNivel(estudiante, nota, nivel)
+        FIN PARA
+
+        MOSTRAR "Niveles C/B/A calculados correctamente."
+
     fin
