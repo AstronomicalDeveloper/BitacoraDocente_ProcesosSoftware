@@ -13,9 +13,9 @@ RF-04 – CRUD de Sesiones
 
         LEER opcion
         SEGÚN opcion HACER
-        CASO 1: crearSesion()
-        CASO 2: listarSesiones()
-        CASO 3: editarSesion()
+            CASO 1: crearSesion()
+            CASO 2: listarSesiones()
+            CASO 3: editarSesion()
             CASO 4: eliminarSesion()
             OTRO: MOSTRAR "Opción no válida"
         FINSEGÚN
