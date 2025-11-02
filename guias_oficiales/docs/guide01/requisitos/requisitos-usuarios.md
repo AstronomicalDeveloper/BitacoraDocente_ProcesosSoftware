@@ -29,13 +29,13 @@ Cada requisito refleja una necesidad práctica observada durante la etapa de obt
 | RU-01 | El sistema debe permitir **crear, modificar y eliminar** la planificación anual que agrupe todas las unidades de aprendizaje. | Mantener organizada la planificación general del año escolar. | Alta |
 | RU-02 | El sistema debe permitir **registrar, modificar y eliminar** unidades de aprendizaje dentro de la planificación anual. | Facilitar la gestión y actualización de las unidades según el avance del año. | Alta |
 | RU-03 | El sistema debe permitir **asociar a cada unidad sus respectivas sesiones de aprendizaje.** | Mantener la jerarquía pedagógica del currículo nacional. | Alta |
-| RU-04 | El sistema debe permitir **registrar, modificar y eliminar sesiones** con su título, fecha, propósito y área curricular. | Planificar clases de forma detallada y ordenada. | Alta |
-| RU-05 | El sistema debe permitir **registrar, modificar y eliminar competencias y sus capacidades**, asociándolas a cada sesión. | Adaptar la planificación al currículo nacional y mantener la coherencia pedagógica. | Alta |
-| RU-06 | El sistema debe permitir **registrar la asistencia** de los estudiantes por fecha y sesión. | Controlar la presencia y participación de los alumnos. | Alta |
-| RU-07 | El sistema debe permitir **marcar por estudiante el cumplimiento de cada capacidad** (check) en una sesión. | Evaluar evidencias concretas del aprendizaje. | Alta |
-| RU-08 | El sistema debe **calcular automáticamente** el porcentaje de capacidades cumplidas por estudiante y asignar el nivel correspondiente: **C (0–33%)**, **B (34–66%)** o **A (67–100%)**. | Estandarizar la evaluación y evitar errores manuales. | Alta |
-| RU-09 | El sistema debe **recalcular automáticamente** el porcentaje y el nivel cuando se modifique un check o cambie el conjunto de capacidades de una sesión. | Mantener la consistencia de la evaluación. | Alta |
-| RU-10 | El sistema debe permitir **consultar, modificar o eliminar registros de desempeño** cuando sea necesario. | Corregir errores o actualizar evaluaciones. | Media |
+| RU-04 | El sistema debe permitir **registrar, modificar y eliminar sesiones** con su título, fecha y propósito. | Planificar clases de forma detallada y ordenada. | Alta |
+| RU-05 | El sistema debe permitir **registrar, modificar y eliminar áreas curriculares**. | Mantener la coherencia y organización de las competencias y capacidades. | Alta |
+| RU-06 | El sistema debe permitir **registrar, modificar y eliminar competencias y sus capacidades**, y asociarlas a cada área curricular. | Adaptar la planificación al currículo nacional y mantener la coherencia pedagógica. | Alta |
+| RU-07 | El sistema debe permitir **registrar la asistencia** de los estudiantes por fecha y sesión. | Controlar la presencia y participación de los alumnos. | Alta |
+| RU-08 | El sistema debe permitir **registrar y modificar por estudiante el cumplimiento de cada capacidad** (check) en una sesión. | Evaluar evidencias concretas del aprendizaje. | Alta |
+| RU-09 | El sistema debe **calcular automáticamente** el porcentaje de capacidades cumplidas por estudiante y asignar el nivel correspondiente: **C (0–33%)**, **B (34–66%)** o **A (67–100%)**. | Estandarizar la evaluación y evitar errores manuales. | Alta |
+| RU-10 | El sistema debe **recalcular automáticamente** el porcentaje y el nivel cuando se modifique un check o cambie el conjunto de capacidades de una sesión. | Mantener la consistencia de la evaluación. | Alta |
 | RU-11 | El sistema debe permitir **generar reportes consolidados** de asistencia y desempeño por estudiante, sesión, unidad o planificación anual. | Facilitar la revisión pedagógica y la toma de decisiones. | Media |
 | RU-12 | El sistema debe ofrecer una **interfaz simple e intuitiva**, accesible desde el equipo personal de la profesora. | Garantizar usabilidad y accesibilidad. | Alta |
 | RU-13 | El sistema debe ofrecer un **módulo individual por estudiante** que consolide su información académica y de asistencia. | Consultar rápidamente el progreso de cada estudiante. | Alta |
