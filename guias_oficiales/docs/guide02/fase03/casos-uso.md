@@ -1,7 +1,6 @@
 ## Diagrama de casos de uso
 
-Diagramas y documentación de cada uno de los casos de uso. Con respecto a la documentación de los casos de uso, incluirán lo siguiente:
-- Además de los datos del encabezado del CU, incluirán flujo principal y reglas de negocio como mínimo.
+Diagramas y documentación de cada uno de los casos de uso.
 
 
 ID: RF-01  
