@@ -30,7 +30,7 @@ Durante el proceso de validación se revisaron todos los requisitos de usuario, 
 |----|--------------------|------------------|------------|----------------|
 | RU-01–RU-06 | Gestión de planificación, unidades, sesiones, competencias y capacidades. | Alineación funcional y claridad de dominio. | Aprobado | Corresponden directamente al flujo pedagógico validado. |
 | RU-07 | Registro de asistencia. | Alineación y viabilidad técnica. | Aprobado | Compatible con el módulo de desempeño y reportes. |
-| RU-08–RU-11 | Registro de capacidades, cálculo automático de desempeño, recálculo, reportes y usabilidad. | Alineación, buenas prácticas y viabilidad. | Aprobado | Confirmados por la docente; no generan ambigüedad. |
+| RU-08–RU-10 | Registro de capacidades, cálculo automático de desempeño, recálculo y usabilidad. | Alineación, buenas prácticas y viabilidad. | Aprobado | Confirmados por la docente; no generan ambigüedad. |
 | RU-12 | Interfaz simple e intuitiva. | Usabilidad y experiencia del usuario. | Aprobado | Reflejado en los wireframes del anexo A. |
 | RU-13–RU-16 | Módulo individual del estudiante, historial, observaciones. | Interpretación correcta del requerimiento del cliente. | Aprobado | Aporta valor y coherencia con la estructura pedagógica. |
 | RU-17–RU-18 | Alertas y configuración de umbrales de faltas. | Alineación, viabilidad técnica. | Aprobado | Implementables con lógica simple en el módulo de asistencia. |
@@ -42,8 +42,8 @@ Durante el proceso de validación se revisaron todos los requisitos de usuario, 
 
 ## Resultados generales de la validación
 
-- **Requisitos aprobados:** 18 de 21 (85,7%)  
-- **Requisitos rechazados:** 3 de 21 (14,3%)  
+- **Requisitos aprobados:** 17 de 21 (80,9%)  
+- **Requisitos rechazados:** 4 de 21 (9,1%)  
 - **Requisitos no funcionales aprobados:** 100%  
 - **Criterios revisados:** alineación, viabilidad técnica, comprensión del cliente, restricciones y buenas prácticas.
 
@@ -52,7 +52,7 @@ Durante el proceso de validación se revisaron todos los requisitos de usuario, 
 ## Conclusiones
 
 1. Todos los requisitos aprobados son **válidos, factibles y coherentes** con los objetivos del proyecto.  
-2. Se descartaron requisitos que **no aportaban valor o excedían el alcance académico**, como autenticación, gestión de docentes y grupos automáticos.  
+2. Se descartaron requisitos que **no aportaban valor o excedían el alcance académico**, como autenticación, gestión de docentes, grupos automáticos y reportes.  
 3. La profesora usuaria **confirmó la correcta interpretación** de sus necesidades y la pertinencia de las funcionalidades seleccionadas.  
 4. Los requisitos no funcionales garantizan que el sistema sea **usable, portable y mantenible** dentro del entorno técnico disponible.  
 5. Con esta validación, el proyecto cuenta con una **base sólida para la implementación**, minimizando el riesgo de retrabajo, sobrecostos o desviaciones en la fase de desarrollo.
