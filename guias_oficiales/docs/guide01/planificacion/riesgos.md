@@ -18,9 +18,9 @@ A continuación, se presenta la matriz de riesgos identificados para el sistema 
 La gestión de riesgos se realizó siguiendo un enfoque proactivo, donde se identificaron, evaluaron y clasificaron los riesgos en las etapas iniciales del proyecto.
 Cada riesgo fue categorizado según:
 
--**Probabilidad**: frecuencia o posibilidad de ocurrencia.
--**Impacto**: magnitud del efecto en caso de que ocurra.
--**Mitigación**: estrategias para prevenir o reducir consecuencias.
+-**Probabilidad**: frecuencia o posibilidad de ocurrencia.  
+-**Impacto**: magnitud del efecto en caso de que ocurra.  
+-**Mitigación**: estrategias para prevenir o reducir consecuencias.  
 
 Se utilizó una escala cualitativa (Alta, Media, Baja) para evaluar estos parámetros, y se definieron acciones preventivas y planes de contingencia.
 
