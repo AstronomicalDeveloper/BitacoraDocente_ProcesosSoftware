@@ -29,11 +29,23 @@ RF-06 – Registrar Asistencia por Sesión
         MOSTRAR "Ingrese ID de sesión:"
         LEER idSesion
         listaEstudiantes = obtenerEstudiantesPorSesion(idSesion)
-    
+
+        MOSTRAR "Ingrese umbral máximo de faltas permitido:"
+        LEER umbralFaltas
+
         PARA cada estudiante EN listaEstudiantes
-            MOSTRAR "Asistencia de ", estudiante.nombre, " (P/A):"
+            MOSTRAR "Asistencia de ", estudiante.nombre, " (P=Presente / A=Ausente):"
             LEER estado
             guardarAsistencia(idSesion, estudiante.id, estado)
+
+            SI estado == "A" ENTONCES
+                estudiante.faltas = estudiante.faltas + 1
+            FIN SI
+
+            SI estudiante.faltas > umbralFaltas ENTONCES
+                MOSTRAR " El estudiante: ", estudiante.nombre, 
+                        " ha superado el umbral de faltas (", estudiante.faltas, " faltas)."
+            FIN SI
         FIN PARA
 
         MOSTRAR "Asistencia registrada correctamente."
