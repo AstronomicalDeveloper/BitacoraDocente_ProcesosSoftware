@@ -1,6 +1,6 @@
 ## Diagrama de casos de uso
 
-Diagramas y documentación de cada uno de los casos de uso.
+Los casos de uso son una técnica de modelado en el desarrollo de software que describe las interacciones entre los usuarios (actores) y un sistema para lograr un objetivo específico. Son herramientas fundamentales en la ingeniería de requisitos que bridge la comunicación entre stakeholders y desarrolladores.
 
 
 ID: RF-01  
@@ -23,8 +23,6 @@ ID: RU-13
 
 
 ## Documentacion de casos de uso:
-Los casos de uso son una técnica de modelado en el desarrollo de software que describe las interacciones entre los usuarios (actores) y un sistema para lograr un objetivo específico. Son herramientas fundamentales en la ingeniería de requisitos que bridge la comunicación entre stakeholders y desarrolladores.
-
 
 
 Archivo Descargable: [Documentacion de casos de uso.docx](https://github.com/user-attachments/files/23290930/Documentacion.de.casos.de.uso.docx)
