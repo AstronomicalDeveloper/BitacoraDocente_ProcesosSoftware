@@ -27,9 +27,8 @@ Los casos de uso son una técnica de modelado en el desarrollo de software que d
 
 
 
-Archivo Descargable: [Documentacion de casos de uso.docx](https://github.com/user-attachments/files/23290467/Documentacion.de.casos.de.uso.docx)
+Archivo Descargable: [Documentacion de casos de uso.docx](https://github.com/user-attachments/files/23290930/Documentacion.de.casos.de.uso.docx)
 
-Ver: 
-[Ver PDF en línea](https://drive.google.com/file/d/1EmcAOzNzAOLh6ImH19HnUAomFM7iuruG/view?usp=sharing)
-<iframe src="https://drive.google.com/file/d/1EmcAOzNzAOLh6ImH19HnUAomFM7iuruG/view?usp=sharing" width="100%" height="600"></iframe>
+
+
 
