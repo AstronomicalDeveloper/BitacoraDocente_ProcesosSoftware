@@ -19,4 +19,4 @@ Registro de asistencia:
 Registro de notas:
 
 
-<img width="1000" height="461" alt="registro de notas y calculo d eproimedio" src="https://github.com/user-attachments/assets/8a0192ba-0b1f-4c42-a232-3ade517de4fa" />
+<img width="1075" height="489" alt="rehistro de nmotas y calculo" src="https://github.com/user-attachments/assets/60db49a3-2a40-43d7-b7fa-2e1b43a29dd1" />  
