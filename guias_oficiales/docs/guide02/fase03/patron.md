@@ -1,10 +1,7 @@
 ## Patrón de software
 
-Patrón de diseño del software (IDE de desarrollo) / Patrón de la arquitectura del software según corresponda con la naturaleza del proyecto de prototipo de software: Presente un esquema gráfico de su propuesta y explique con un párrafo de 10 líneas aproximadamente su patrón tomando como base la sesión correspondiente a la Semana 06: Patrones de Diseño de Software.
+El proyecto utiliza una **arquitectura en capas** bajo el patrón **Cliente-Servidor**, separando el **frontend** del **backend** para lograr una mayor escalabilidad, mantenibilidad y reutilización del código. El backend está estructurado en cinco capas: **API**, que conecta el Dominio con el Cliente; **CapaAuxiliar de Datos**, donde se ejecutan consultas especiales directamente en la base de datos con SQL; **Común**, que contiene los recursos compartidos entre capas; **Dominio**, que gestiona las entidades, servicios de negocio, utilidades, migraciones y configuración de la base de datos; e Intercambio, que define los objetos de transferencia de datos (DTOs).
 
-El sistema de seguimiento académico se desarrolla en C# aplicando una arquitectura de tres capas, lo que permite una estructura clara y ordenada.
-En la capa de presentación se encuentran los formularios e interfaces que usa la profesora para registrar notas, asistencia y revisar el progreso de los alumnos. Esta capa se enfoca únicamente en la interacción con el usuario y no maneja directamente los datos.
-La capa de negocio contiene la lógica del sistema, encargándose de procesar la información, calcular promedios y validar que los datos ingresados sean correctos. Actúa como intermediaria entre la interfaz y la base de datos, garantizando que las reglas del sistema se cumplan.
-La capa de datos se ocupa de conectarse con la base de datos, ejecutar consultas y guardar la información de los alumnos, cursos y notas. Esta conexión se realiza mediante una librería que permite comunicar el programa con MariaDB.
-Cada capa cumple un rol específico, evitando que los cambios en una afecten a las demás. Gracias a esta separación, el código es más fácil de mantener, probar y escalar en el futuro.
-Además, la arquitectura facilita el trabajo en equipo y el control de versiones con herramientas como Git y GitHub, asegurando orden y colaboración durante el desarrollo del proyecto.
+Por su parte, el frontend, programado en React, tiene una división en tres capas: **Servicio**, encargada de la comunicación con el backend; **Estado**, que administra los datos globales de la aplicación; y **Interfaz**, conformada por los componentes visuales y sus estilos. Esta arquitectura permite una clara separación de responsabilidades, facilita las pruebas unitarias y la evolución del sistema sin afectar el núcleo funcional del proyecto.
+
+---
