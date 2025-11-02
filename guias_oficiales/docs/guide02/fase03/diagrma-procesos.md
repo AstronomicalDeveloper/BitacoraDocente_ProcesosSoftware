@@ -2,8 +2,8 @@
 
 Gestion individual de estudiante:
 
+<img width="1136" height="446" alt="modulo de est procesos" src="https://github.com/user-attachments/assets/6885356c-0bed-4e08-a8b3-975274c4bccb" />
 
-<img width="1000" height="461" alt="gestion individual de estudiante" src="https://github.com/user-attachments/assets/a0e876cf-d7e7-477f-89b1-c180340a89d4" />
 
 
 
