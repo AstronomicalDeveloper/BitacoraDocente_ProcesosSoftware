@@ -51,9 +51,9 @@ RF-10 – Calcular Nivel C/B/A
            SINO nivel = "C"
 
         guardarNivel(estudiante, nivel)
-    finfuncion
-    SINO nivel = "C"
-    fin
+        finfuncion
+        SINO nivel = "C"
+        fin
 
-    guardarNivel(estudiante, nivel)
-fin
+        guardarNivel(estudiante, nivel)
+    fin
