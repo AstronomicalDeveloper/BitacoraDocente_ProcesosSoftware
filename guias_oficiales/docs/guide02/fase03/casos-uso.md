@@ -24,8 +24,8 @@ GESTION DE MODUlOS DE ESTUDIANTE
 
 
 
-RECALCULAR NIVEL
-![1000110663](https://github.com/user-attachments/assets/357f5136-5b78-4d32-8208-13378b5957d7)
+RECALCULAR NIVEL  
+  ![1000110663](https://github.com/user-attachments/assets/357f5136-5b78-4d32-8208-13378b5957d7)  
 
 
 
