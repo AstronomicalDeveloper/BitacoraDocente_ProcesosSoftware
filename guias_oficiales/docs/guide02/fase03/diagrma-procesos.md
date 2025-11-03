@@ -20,3 +20,28 @@ Registro de notas:
 
 
 <img width="1075" height="489" alt="rehistro de nmotas y calculo" src="https://github.com/user-attachments/assets/60db49a3-2a40-43d7-b7fa-2e1b43a29dd1" />  
+
+
+
+
+EDITAR/ELIMINAR REGISTROS
+
+
+![1000110659](https://github.com/user-attachments/assets/424069d6-2cfc-466e-aa14-a03ea778afa6)
+
+
+
+
+RECALCULAR NIVEL/ALERTAS
+
+
+![1000110660](https://github.com/user-attachments/assets/fa88f45a-3a35-43c9-9c51-9d5d9e9860f1)
+
+
+
+
+NAVEGACION EN LA INTERFAZ
+
+
+![1000110658](https://github.com/user-attachments/assets/524a46ae-43f7-47dc-b847-355e0e40467d)
+
