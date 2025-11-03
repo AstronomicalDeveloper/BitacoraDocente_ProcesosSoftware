@@ -1,10 +1,22 @@
 ## Diagrama de procesos
 
+Gestion de planeamiento académico   
+  
+  ![planemiarento acadecorrgido](https://github.com/user-attachments/assets/c004f46a-033b-458f-a7c1-c2da8c6b972a)  
+
+Gestión de sesiones  
+  ![gestion de sesones ocrregido](https://github.com/user-attachments/assets/e195206a-6fff-4cbd-80e1-0eca97923fdd)
+
+
+
+  Gestión de competencias y capacidades  
+  
+  ![gestion ocmpe y capa corregidos](https://github.com/user-attachments/assets/3ed8e6d3-273d-49ea-89c2-4eaeb4a74b2f)  
+
+
 Gestion individual de estudiante:
 
 <img width="1136" height="446" alt="modulo de est procesos" src="https://github.com/user-attachments/assets/6885356c-0bed-4e08-a8b3-975274c4bccb" />
-
-
 
 
 
