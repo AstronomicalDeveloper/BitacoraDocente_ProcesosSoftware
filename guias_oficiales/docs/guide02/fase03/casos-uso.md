@@ -13,8 +13,7 @@ ID: RF-04
 
 
 ID: RF-06  
-<img width="741" height="446" alt="getsion de asistencia" src="https://github.com/user-attachments/assets/0427e5fd-b1f1-4cf5-a71d-4b7bfaaba6b1" />
-
+![asistencidacorregido](https://github.com/user-attachments/assets/188cafae-c45a-4a47-a51e-6f92608d6776)
 
 
 ID: RU-13  
