@@ -1,9 +1,7 @@
 ## Patrón de software
 
-El proyecto utiliza una **arquitectura en capas** bajo el patrón **Cliente-Servidor**, separando el **frontend** del **backend** para lograr una mayor escalabilidad, mantenibilidad y reutilización del código. El backend está estructurado en cinco capas: **API**, que conecta el Dominio con el Cliente; **CapaAuxiliar de Datos**, donde se ejecutan consultas especiales directamente en la base de datos con SQL; **Común**, que contiene los recursos compartidos entre capas; **Dominio**, que gestiona las entidades, servicios de negocio, utilidades, migraciones y configuración de la base de datos; e Intercambio, que define los objetos de transferencia de datos (DTOs).
-
-Por su parte, el frontend, tiene una división en tres capas: **Servicio**, encargada de la comunicación con el backend; **Estado**, que administra los datos globales de la aplicación; y **Interfaz**, conformada por los componentes visuales y sus estilos. Esta arquitectura permite una clara separación de responsabilidades, facilita las pruebas unitarias y la evolución del sistema sin afectar el núcleo funcional del proyecto.
-
-Por el lado del desarrollo, el backend está desarrollado en .NET con C#, utilizando el IDE Visual Studio como entorno principal de desarrollo; y el frontend está hecho en React con TypeScrip y se usará Visual Studio Code como IDE. 
+El patrón de arquitectura utilizado en el proyecto es **Multicapa** (N-Tier), el cual organiza el software en distintos niveles con responsabilidades bien definidas. La **capa de presentación**, desarrollada en React con TypeScript, gestiona la interacción con el usuario mediante componentes visuales, manejo de estado y servicios que se comunican con el backend. La **capa API**, implementada en .NET Core con C#, expone servicios REST a través de controladores y endpoints que reciben las peticiones del cliente. La **capa lógica de negocio** contiene las entidades, servicios y validaciones que representan las reglas y procesos propios del sistema, además del mapeo entre entidades y DTOs. Finalmente, la **capa de acceso a datos** se encarga de la persistencia de la información, utilizando repositorios, Entity Framework Core y una base de datos MariaDB. Esta estructura mejora la mantenibilidad, escalabilidad y separación de responsabilidades, permitiendo que cada capa evolucione de manera independiente sin afectar al resto.
 
 ---
+
+<img width="1920" height="1080" alt="patrón de" src="https://github.com/user-attachments/assets/85121326-5ab1-424b-b210-85b72e33ad5f" />
