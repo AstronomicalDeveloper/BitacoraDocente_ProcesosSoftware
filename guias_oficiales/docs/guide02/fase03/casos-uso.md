@@ -15,15 +15,22 @@ GESTION DE ASISTENCIA
 ![asistencidacorregido](https://github.com/user-attachments/assets/188cafae-c45a-4a47-a51e-6f92608d6776)
 
 
-GESTION DE MODUOS DE ESTUDIANTE    
+GESTION DE MODUlOS DE ESTUDIANTE    
 <img width="757" height="462" alt="gesotion de modulos" src="https://github.com/user-attachments/assets/69a233d7-549c-48d2-95bc-0bbfb01fbc3a" />   
 
 
+  GESTION DE OCMPETENCIAS Y CAPACIDADES  
+<img width="763" height="450" alt="gestion de comp y cap" src="https://github.com/user-attachments/assets/b82e0b31-2600-4697-822f-19e7c6d9bc3c" />  
+
+
+  
+APLICACION DE OBSERVACIONES  
+<img width="634" height="385" alt="gestion de observaciones" src="https://github.com/user-attachments/assets/066f3735-d50c-43eb-92a3-45aeeaa9dc97" />  
 
 
 
-
-
+REGISTRO DE NOTAS  
+<img width="782" height="473" alt="Resgistro de notas" src="https://github.com/user-attachments/assets/b71cc26c-731b-46ce-8a9b-01bed8fd1562" />  
 
 
 
