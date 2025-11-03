@@ -4,9 +4,6 @@ Gestion de planeamiento académico
   
   ![planemiarento acadecorrgido](https://github.com/user-attachments/assets/c004f46a-033b-458f-a7c1-c2da8c6b972a)  
 
-Gestión de sesiones  
-  ![gestion de sesones ocrregido](https://github.com/user-attachments/assets/e195206a-6fff-4cbd-80e1-0eca97923fdd)
-
 
 
   Gestión de competencias y capacidades  
