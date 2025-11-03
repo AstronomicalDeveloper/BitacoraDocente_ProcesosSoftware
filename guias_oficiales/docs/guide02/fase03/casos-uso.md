@@ -23,6 +23,12 @@ GESTION DE MODUlOS DE ESTUDIANTE
 <img width="763" height="450" alt="gestion de comp y cap" src="https://github.com/user-attachments/assets/b82e0b31-2600-4697-822f-19e7c6d9bc3c" />  
 
 
+
+RECALCULAR NIVEL
+![1000110663](https://github.com/user-attachments/assets/357f5136-5b78-4d32-8208-13378b5957d7)
+
+
+
   
 APLICACION DE OBSERVACIONES  
 <img width="634" height="385" alt="gestion de observaciones" src="https://github.com/user-attachments/assets/066f3735-d50c-43eb-92a3-45aeeaa9dc97" />  
@@ -33,6 +39,15 @@ REGISTRO DE NOTAS
 <img width="782" height="473" alt="Resgistro de notas" src="https://github.com/user-attachments/assets/b71cc26c-731b-46ce-8a9b-01bed8fd1562" />  
 
 
+
+EDITAR/ELIMINAR REGISTRO
+![1000110662](https://github.com/user-attachments/assets/c0994352-0dbe-486d-a2eb-a897abb0896d)
+
+
+
+
+NAVEGACION POR LA INTERFAZ
+![1000110661](https://github.com/user-attachments/assets/b47cb114-fffb-4271-8fcc-3a2e132ca07c)
 
 
 
