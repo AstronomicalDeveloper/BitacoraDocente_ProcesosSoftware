@@ -36,12 +36,12 @@ APLICACION DE OBSERVACIONES
 
 
 REGISTRO DE NOTAS  
-<img width="782" height="473" alt="Resgistro de notas" src="https://github.com/user-attachments/assets/b71cc26c-731b-46ce-8a9b-01bed8fd1562" />  
+![registrodenotascorregido](https://github.com/user-attachments/assets/a80be2b2-0d03-4d89-b8a6-a0b8ed58eb18)
 
 
 
-EDITAR/ELIMINAR REGISTRO
-![1000110662](https://github.com/user-attachments/assets/c0994352-0dbe-486d-a2eb-a897abb0896d)
+EDITAR/ELIMINAR REGISTRO  
+![1000110662](https://github.com/user-attachments/assets/c0994352-0dbe-486d-a2eb-a897abb0896d)  
 
 
 
