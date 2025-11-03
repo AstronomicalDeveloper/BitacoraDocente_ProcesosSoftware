@@ -53,9 +53,9 @@ NAVEGACION POR LA INTERFAZ
 
 
 ## Documentacion de casos de uso:
+Archivo descargable: [Documentacion de casos de uso.docx](https://github.com/user-attachments/files/23304033/Documentacion.de.casos.de.uso.docx)
 
 
-Archivo Descargable: [Documentacion de casos de uso.docx](https://github.com/user-attachments/files/23290930/Documentacion.de.casos.de.uso.docx)
 
 
 
