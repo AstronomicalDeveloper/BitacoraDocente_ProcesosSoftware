@@ -46,8 +46,8 @@ EDITAR/ELIMINAR REGISTRO
 
 
 
-NAVEGACION POR LA INTERFAZ
-![1000110661](https://github.com/user-attachments/assets/b47cb114-fffb-4271-8fcc-3a2e132ca07c)
+NAVEGACION POR LA INTERFAZ  
+  ![1000110661](https://github.com/user-attachments/assets/b47cb114-fffb-4271-8fcc-3a2e132ca07c)
 
 
 
