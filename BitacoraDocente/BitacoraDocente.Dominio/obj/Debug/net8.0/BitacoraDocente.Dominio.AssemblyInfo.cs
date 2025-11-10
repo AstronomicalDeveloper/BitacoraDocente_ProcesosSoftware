@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BitacoraDocente.Dominio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bd71dd9c2c644604843a6bb47d8b16b66504336")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a3c26c7b10e4d98aac30f6d70d4738bb3d17af7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BitacoraDocente.Dominio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BitacoraDocente.Dominio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

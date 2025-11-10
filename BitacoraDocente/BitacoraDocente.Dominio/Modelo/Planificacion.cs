@@ -18,7 +18,7 @@ namespace BitacoraDocente.Dominio.Modelo
         public string SeccionGrado { get; set; } = string.Empty;
 
         public virtual AreaCurricular AreaCurricular { get; set; } = new AreaCurricular();
-        public virtual ICollection<UnidadDidactica> { get; set; } = new List<UnidadDidactica>();
+        // public virtual ICollection<UnidadDidactica> { get; set; } = new List<UnidadDidactica>();
 
         public ResultadoOperacion<bool> Validar()
         {

@@ -33,6 +33,9 @@ namespace BitacoraDocente.Dominio.Utilidades
                 }
             }
 
+            // Validar que las enumeraciones son validas.
+            // Validar que tengan la longitud minima o maxima
+
             return resultados;
         }
 
