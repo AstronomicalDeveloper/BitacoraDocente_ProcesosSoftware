@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|c:\\users\\landry\\documentos\\universidad\\04_cuarto ciclo\\procesos de software\\proyecto\\astrodev-branch\\bitacoradocente\\bitacoradocente.dominio\\configuraciondb\\areacurriculardb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|solutionrelative:bitacoradocente.dominio\\configuraciondb\\areacurriculardb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|c:\\users\\landry\\documentos\\universidad\\04_cuarto ciclo\\procesos de software\\proyecto\\astrodev-branch\\bitacoradocente\\bitacoradocente.dominio\\modelo\\planificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|solutionrelative:bitacoradocente.dominio\\modelo\\planificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|c:\\users\\landry\\documentos\\universidad\\04_cuarto ciclo\\procesos de software\\proyecto\\astrodev-branch\\bitacoradocente\\bitacoradocente.dominio\\modelo\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|solutionrelative:bitacoradocente.dominio\\modelo\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|c:\\users\\landry\\documentos\\universidad\\04_cuarto ciclo\\procesos de software\\proyecto\\astrodev-branch\\bitacoradocente\\bitacoradocente.dominio\\configuraciondb\\estudiantedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|solutionrelative:bitacoradocente.dominio\\configuraciondb\\estudiantedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|c:\\users\\landry\\documentos\\universidad\\04_cuarto ciclo\\procesos de software\\proyecto\\astrodev-branch\\bitacoradocente\\bitacoradocente.dominio\\modelo\\areacurricular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|solutionrelative:bitacoradocente.dominio\\modelo\\areacurricular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|c:\\users\\landry\\documentos\\universidad\\04_cuarto ciclo\\procesos de software\\proyecto\\astrodev-branch\\bitacoradocente\\bitacoradocente.dominio\\configuraciondb\\areacurriculardb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|solutionrelative:bitacoradocente.dominio\\configuraciondb\\areacurriculardb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|c:\\users\\landry\\documentos\\universidad\\04_cuarto ciclo\\procesos de software\\proyecto\\astrodev-branch\\bitacoradocente\\bitacoradocente.dominio\\modelo\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|solutionrelative:bitacoradocente.dominio\\modelo\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AreaCurricularDB.cs",
-              "DocumentMoniker": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\ConfiguracionDB\\AreaCurricularDB.cs",
-              "RelativeDocumentMoniker": "BitacoraDocente.Dominio\\ConfiguracionDB\\AreaCurricularDB.cs",
-              "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\ConfiguracionDB\\AreaCurricularDB.cs",
-              "RelativeToolTip": "BitacoraDocente.Dominio\\ConfiguracionDB\\AreaCurricularDB.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T02:53:22.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EstudianteDB.cs",
-              "DocumentMoniker": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\ConfiguracionDB\\EstudianteDB.cs",
-              "RelativeDocumentMoniker": "BitacoraDocente.Dominio\\ConfiguracionDB\\EstudianteDB.cs",
-              "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\ConfiguracionDB\\EstudianteDB.cs",
-              "RelativeToolTip": "BitacoraDocente.Dominio\\ConfiguracionDB\\EstudianteDB.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T02:52:19.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AreaCurricular.cs",
-              "DocumentMoniker": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\Modelo\\AreaCurricular.cs",
-              "RelativeDocumentMoniker": "BitacoraDocente.Dominio\\Modelo\\AreaCurricular.cs",
-              "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\Modelo\\AreaCurricular.cs",
-              "RelativeToolTip": "BitacoraDocente.Dominio\\Modelo\\AreaCurricular.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T02:46:35.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Estudiante.cs",
-              "DocumentMoniker": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\Modelo\\Estudiante.cs",
-              "RelativeDocumentMoniker": "BitacoraDocente.Dominio\\Modelo\\Estudiante.cs",
-              "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\Modelo\\Estudiante.cs",
-              "RelativeToolTip": "BitacoraDocente.Dominio\\Modelo\\Estudiante.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBMAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T02:45:52.616Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Planificacion.cs",
               "DocumentMoniker": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\Modelo\\Planificacion.cs",
               "RelativeDocumentMoniker": "BitacoraDocente.Dominio\\Modelo\\Planificacion.cs",
               "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\Modelo\\Planificacion.cs",
               "RelativeToolTip": "BitacoraDocente.Dominio\\Modelo\\Planificacion.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T02:45:16.694Z",
+              "WhenOpened": "2025-11-10T03:42:46.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AreaCurricular.cs",
+              "DocumentMoniker": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\Modelo\\AreaCurricular.cs",
+              "RelativeDocumentMoniker": "BitacoraDocente.Dominio\\Modelo\\AreaCurricular.cs",
+              "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\Modelo\\AreaCurricular.cs",
+              "RelativeToolTip": "BitacoraDocente.Dominio\\Modelo\\AreaCurricular.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:40:42.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\Modelo\\Estudiante.cs",
+              "RelativeDocumentMoniker": "BitacoraDocente.Dominio\\Modelo\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\Modelo\\Estudiante.cs",
+              "RelativeToolTip": "BitacoraDocente.Dominio\\Modelo\\Estudiante.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:42:33.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AreaCurricularDB.cs",
+              "DocumentMoniker": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\ConfiguracionDB\\AreaCurricularDB.cs",
+              "RelativeDocumentMoniker": "BitacoraDocente.Dominio\\ConfiguracionDB\\AreaCurricularDB.cs",
+              "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\ConfiguracionDB\\AreaCurricularDB.cs",
+              "RelativeToolTip": "BitacoraDocente.Dominio\\ConfiguracionDB\\AreaCurricularDB.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:40:47.563Z",
               "EditorCaption": ""
             }
           ]
