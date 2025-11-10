@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BitacoraDocente.Intercambio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bd71dd9c2c644604843a6bb47d8b16b66504336")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+744bceb35ebfa47443165bec0f2140c8a717a0e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("BitacoraDocente.Intercambio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BitacoraDocente.Intercambio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
