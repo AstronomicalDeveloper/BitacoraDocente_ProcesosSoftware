@@ -3,52 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECCBCBD1-A481-4731-9513-46C7F0F6CAF4}|BitacoraDocente.API\\BitacoraDocente.API.csproj|c:\\users\\landry\\documentos\\universidad\\04_cuarto ciclo\\procesos de software\\proyecto\\astrodev-branch\\bitacoradocente\\bitacoradocente.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECCBCBD1-A481-4731-9513-46C7F0F6CAF4}|BitacoraDocente.API\\BitacoraDocente.API.csproj|solutionrelative:bitacoradocente.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|c:\\users\\landry\\documentos\\universidad\\04_cuarto ciclo\\procesos de software\\proyecto\\astrodev-branch\\bitacoradocente\\bitacoradocente.dominio\\configuraciondb\\areacurriculardb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|solutionrelative:bitacoradocente.dominio\\configuraciondb\\areacurriculardb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|c:\\users\\landry\\documentos\\universidad\\04_cuarto ciclo\\procesos de software\\proyecto\\astrodev-branch\\bitacoradocente\\bitacoradocente.dominio\\servicios\\implementacion\\estudianteservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|solutionrelative:bitacoradocente.dominio\\servicios\\implementacion\\estudianteservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|c:\\users\\landry\\documentos\\universidad\\04_cuarto ciclo\\procesos de software\\proyecto\\astrodev-branch\\bitacoradocente\\bitacoradocente.dominio\\modelo\\planificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|solutionrelative:bitacoradocente.dominio\\modelo\\planificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECCBCBD1-A481-4731-9513-46C7F0F6CAF4}|BitacoraDocente.API\\BitacoraDocente.API.csproj|c:\\users\\landry\\documentos\\universidad\\04_cuarto ciclo\\procesos de software\\proyecto\\astrodev-branch\\bitacoradocente\\bitacoradocente.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{ECCBCBD1-A481-4731-9513-46C7F0F6CAF4}|BitacoraDocente.API\\BitacoraDocente.API.csproj|solutionrelative:bitacoradocente.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|c:\\users\\landry\\documentos\\universidad\\04_cuarto ciclo\\procesos de software\\proyecto\\astrodev-branch\\bitacoradocente\\bitacoradocente.dominio\\modelo\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|solutionrelative:bitacoradocente.dominio\\modelo\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|c:\\users\\landry\\documentos\\universidad\\04_cuarto ciclo\\procesos de software\\proyecto\\astrodev-branch\\bitacoradocente\\bitacoradocente.dominio\\configuraciondb\\estudiantedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|solutionrelative:bitacoradocente.dominio\\configuraciondb\\estudiantedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|c:\\users\\landry\\documentos\\universidad\\04_cuarto ciclo\\procesos de software\\proyecto\\astrodev-branch\\bitacoradocente\\bitacoradocente.dominio\\migrations\\20251106220013_migracion de la tabla estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|solutionrelative:bitacoradocente.dominio\\migrations\\20251106220013_migracion de la tabla estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|c:\\users\\landry\\documentos\\universidad\\04_cuarto ciclo\\procesos de software\\proyecto\\astrodev-branch\\bitacoradocente\\bitacoradocente.dominio\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|solutionrelative:bitacoradocente.dominio\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECCBCBD1-A481-4731-9513-46C7F0F6CAF4}|BitacoraDocente.API\\BitacoraDocente.API.csproj|c:\\users\\landry\\documentos\\universidad\\04_cuarto ciclo\\procesos de software\\proyecto\\astrodev-branch\\bitacoradocente\\bitacoradocente.api\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECCBCBD1-A481-4731-9513-46C7F0F6CAF4}|BitacoraDocente.API\\BitacoraDocente.API.csproj|solutionrelative:bitacoradocente.api\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|c:\\users\\landry\\documentos\\universidad\\04_cuarto ciclo\\procesos de software\\proyecto\\astrodev-branch\\bitacoradocente\\bitacoradocente.dominio\\servicios\\iestudianteservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|solutionrelative:bitacoradocente.dominio\\servicios\\iestudianteservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65E84AAF-4327-4D7C-AA71-AF1F810A741E}|BitacoraDocente.Comun\\BitacoraDocente.Comun.csproj|c:\\users\\landry\\documentos\\universidad\\04_cuarto ciclo\\procesos de software\\proyecto\\astrodev-branch\\bitacoradocente\\bitacoradocente.comun\\enumeracion\\tipogenero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65E84AAF-4327-4D7C-AA71-AF1F810A741E}|BitacoraDocente.Comun\\BitacoraDocente.Comun.csproj|solutionrelative:bitacoradocente.comun\\enumeracion\\tipogenero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65E84AAF-4327-4D7C-AA71-AF1F810A741E}|BitacoraDocente.Comun\\BitacoraDocente.Comun.csproj|c:\\users\\landry\\documentos\\universidad\\04_cuarto ciclo\\procesos de software\\proyecto\\astrodev-branch\\bitacoradocente\\bitacoradocente.comun\\enumeracion\\tipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65E84AAF-4327-4D7C-AA71-AF1F810A741E}|BitacoraDocente.Comun\\BitacoraDocente.Comun.csproj|solutionrelative:bitacoradocente.comun\\enumeracion\\tipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECCBCBD1-A481-4731-9513-46C7F0F6CAF4}|BitacoraDocente.API\\BitacoraDocente.API.csproj|c:\\users\\landry\\documentos\\universidad\\04_cuarto ciclo\\procesos de software\\proyecto\\astrodev-branch\\bitacoradocente\\bitacoradocente.api\\bitacoradocente.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ECCBCBD1-A481-4731-9513-46C7F0F6CAF4}|BitacoraDocente.API\\BitacoraDocente.API.csproj|solutionrelative:bitacoradocente.api\\bitacoradocente.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|c:\\users\\landry\\documentos\\universidad\\04_cuarto ciclo\\procesos de software\\proyecto\\astrodev-branch\\bitacoradocente\\bitacoradocente.dominio\\bitacoradocente.dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|solutionrelative:bitacoradocente.dominio\\bitacoradocente.dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|c:\\users\\landry\\documentos\\universidad\\04_cuarto ciclo\\procesos de software\\proyecto\\astrodev-branch\\bitacoradocente\\bitacoradocente.dominio\\modelo\\areacurricular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA2C23B-856D-4C90-A74A-2D1235E74B29}|BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj|solutionrelative:bitacoradocente.dominio\\modelo\\areacurricular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AreaCurricularDB.cs",
+              "DocumentMoniker": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\ConfiguracionDB\\AreaCurricularDB.cs",
+              "RelativeDocumentMoniker": "BitacoraDocente.Dominio\\ConfiguracionDB\\AreaCurricularDB.cs",
+              "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\ConfiguracionDB\\AreaCurricularDB.cs",
+              "RelativeToolTip": "BitacoraDocente.Dominio\\ConfiguracionDB\\AreaCurricularDB.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T02:53:22.242Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -68,142 +53,49 @@
               "RelativeDocumentMoniker": "BitacoraDocente.Dominio\\ConfiguracionDB\\EstudianteDB.cs",
               "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\ConfiguracionDB\\EstudianteDB.cs",
               "RelativeToolTip": "BitacoraDocente.Dominio\\ConfiguracionDB\\EstudianteDB.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T03:26:30.862Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.API\\appsettings.json",
-              "RelativeDocumentMoniker": "BitacoraDocente.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.API\\appsettings.json",
-              "RelativeToolTip": "BitacoraDocente.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-07T03:22:19.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EstudianteServicio.cs",
-              "DocumentMoniker": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\Servicios\\Implementacion\\EstudianteServicio.cs",
-              "RelativeDocumentMoniker": "BitacoraDocente.Dominio\\Servicios\\Implementacion\\EstudianteServicio.cs",
-              "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\Servicios\\Implementacion\\EstudianteServicio.cs",
-              "RelativeToolTip": "BitacoraDocente.Dominio\\Servicios\\Implementacion\\EstudianteServicio.cs",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAowIgAAABxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T03:05:46.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IEstudianteServicio.cs",
-              "DocumentMoniker": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\Servicios\\IEstudianteServicio.cs",
-              "RelativeDocumentMoniker": "BitacoraDocente.Dominio\\Servicios\\IEstudianteServicio.cs",
-              "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\Servicios\\IEstudianteServicio.cs",
-              "RelativeToolTip": "BitacoraDocente.Dominio\\Servicios\\IEstudianteServicio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T03:04:09.015Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EstudianteController.cs",
-              "DocumentMoniker": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.API\\Controllers\\EstudianteController.cs",
-              "RelativeDocumentMoniker": "BitacoraDocente.API\\Controllers\\EstudianteController.cs",
-              "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.API\\Controllers\\EstudianteController.cs",
-              "RelativeToolTip": "BitacoraDocente.API\\Controllers\\EstudianteController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T22:15:18.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TipoDocumento.cs",
-              "DocumentMoniker": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Comun\\Enumeracion\\TipoDocumento.cs",
-              "RelativeDocumentMoniker": "BitacoraDocente.Comun\\Enumeracion\\TipoDocumento.cs",
-              "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Comun\\Enumeracion\\TipoDocumento.cs",
-              "RelativeToolTip": "BitacoraDocente.Comun\\Enumeracion\\TipoDocumento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T22:13:54.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.API\\Program.cs",
-              "RelativeDocumentMoniker": "BitacoraDocente.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.API\\Program.cs",
-              "RelativeToolTip": "BitacoraDocente.API\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T21:14:56.402Z",
+              "WhenOpened": "2025-11-10T02:52:19.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "20251106220013_Migracion de la tabla estudiante.cs",
-              "DocumentMoniker": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\Migrations\\20251106220013_Migracion de la tabla estudiante.cs",
-              "RelativeDocumentMoniker": "BitacoraDocente.Dominio\\Migrations\\20251106220013_Migracion de la tabla estudiante.cs",
-              "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\Migrations\\20251106220013_Migracion de la tabla estudiante.cs",
-              "RelativeToolTip": "BitacoraDocente.Dominio\\Migrations\\20251106220013_Migracion de la tabla estudiante.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Title": "AreaCurricular.cs",
+              "DocumentMoniker": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\Modelo\\AreaCurricular.cs",
+              "RelativeDocumentMoniker": "BitacoraDocente.Dominio\\Modelo\\AreaCurricular.cs",
+              "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\Modelo\\AreaCurricular.cs",
+              "RelativeToolTip": "BitacoraDocente.Dominio\\Modelo\\AreaCurricular.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T22:00:14.328Z"
+              "WhenOpened": "2025-11-10T02:46:35.68Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "BitacoraDocente.Dominio\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\AppDbContext.cs",
-              "RelativeToolTip": "BitacoraDocente.Dominio\\AppDbContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\Modelo\\Estudiante.cs",
+              "RelativeDocumentMoniker": "BitacoraDocente.Dominio\\Modelo\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\Modelo\\Estudiante.cs",
+              "RelativeToolTip": "BitacoraDocente.Dominio\\Modelo\\Estudiante.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T03:22:13.402Z"
+              "WhenOpened": "2025-11-10T02:45:52.616Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TipoGenero.cs",
-              "DocumentMoniker": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Comun\\Enumeracion\\TipoGenero.cs",
-              "RelativeDocumentMoniker": "BitacoraDocente.Comun\\Enumeracion\\TipoGenero.cs",
-              "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Comun\\Enumeracion\\TipoGenero.cs",
-              "RelativeToolTip": "BitacoraDocente.Comun\\Enumeracion\\TipoGenero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Planificacion.cs",
+              "DocumentMoniker": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\Modelo\\Planificacion.cs",
+              "RelativeDocumentMoniker": "BitacoraDocente.Dominio\\Modelo\\Planificacion.cs",
+              "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\Modelo\\Planificacion.cs",
+              "RelativeToolTip": "BitacoraDocente.Dominio\\Modelo\\Planificacion.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T22:13:55.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BitacoraDocente.API.csproj",
-              "DocumentMoniker": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.API\\BitacoraDocente.API.csproj",
-              "RelativeDocumentMoniker": "BitacoraDocente.API\\BitacoraDocente.API.csproj",
-              "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.API\\BitacoraDocente.API.csproj",
-              "RelativeToolTip": "BitacoraDocente.API\\BitacoraDocente.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-06T21:53:08.365Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BitacoraDocente.Dominio.csproj",
-              "DocumentMoniker": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj",
-              "RelativeDocumentMoniker": "BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj",
-              "ToolTip": "C:\\Users\\Landry\\Documentos\\Universidad\\04_Cuarto ciclo\\Procesos de Software\\Proyecto\\astrodev-branch\\BitacoraDocente\\BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj",
-              "RelativeToolTip": "BitacoraDocente.Dominio\\BitacoraDocente.Dominio.csproj",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-06T21:19:14.789Z"
+              "WhenOpened": "2025-11-10T02:45:16.694Z",
+              "EditorCaption": ""
             }
           ]
         }
