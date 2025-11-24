@@ -1,13 +1,6 @@
 ## Pantallas de interfaz de usuario
-![WhatsApp Image 2025-11-23 at 7 21 21 PM](https://github.com/user-attachments/assets/146e9bc0-0487-455a-baf3-6ab88fe4cc21)
 
 
-![WhatsApp Image 2025-11-23 at 7 21 21 PM (2)](https://github.com/user-attachments/assets/22df1643-16ba-48ff-b670-48bca4baa8ba)
-
-
-
-
-![WhatsApp Image 2025-11-23 at 7 21 21 PM (1)](https://github.com/user-attachments/assets/57a496d7-46f6-4d66-a9f4-05f01a9dfe33)
 
 ![WhatsApp Image 2025-11-24 at 8 58 43 AM](https://github.com/user-attachments/assets/abcf6f7b-4d75-442a-ba97-8a757ebce3a4)
 ![WhatsApp Image 2025-11-24 at 8 58 33 AM](https://github.com/user-attachments/assets/015b2f47-85d6-49fb-832d-a0a6b2051cf9)
