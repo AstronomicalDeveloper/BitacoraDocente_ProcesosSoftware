@@ -12,6 +12,7 @@ Deberán considerar una prueba de caja negra por cada requisito mandatorio (las 
  
 
 ## Pruebas de caja negra
+## matriz de trazabilidad
 | RF     | ID CASO | Descripción breve del caso                    | Entrada(s)                                   | Resultado Esperado                 | Evidencia | Resultado |
 |--------|---------|------------------------------------------------|-----------------------------------------------|------------------------------------|-----------|-----------|
 | RF-01  | CU01    | Crear planificación anual                      | Año: 2025                                     | Planificación creada               |           | OK        |
