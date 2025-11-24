@@ -1,4 +1,4 @@
 ## Clases generadas (Opcional)
 
-Clases o tablas generadas a través de base de datos. En caso haya generado el modelo lógico y físico de datos mediante un motor de base de datos, éste deberá ser incluido
-en el acápite "Modelo lógico-físico" de la Fase 03 de la presente guía de aprendizaje.
+Tabla generada por la base de datos usada (Mariadb)
+<img width="1280" height="998" alt="bitacora_docente" src="https://github.com/user-attachments/assets/39228ca9-98e3-4b6c-adb8-ba44654e915d" />
