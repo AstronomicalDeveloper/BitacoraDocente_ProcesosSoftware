@@ -31,7 +31,7 @@ El detalle de los errores encontrados serán indicados en el Anexo 2 - “Inform
 - Estado del defecto: Solucionado
 - Corregido por: Adrian Ccoicca    
 - Fecha de cierre 28/10/2025
-- Prioridad –  Baja        
+- Prioridad –  Baja <br><br><br>       
  
 
 
@@ -54,7 +54,7 @@ El detalle de los errores encontrados serán indicados en el Anexo 2 - “Inform
 - Estado del defecto: Solucionado
 - Corregido por: Landry Bardales     
 - Fecha de cierre 22/11/2025
-- Prioridad Crítico             
+- Prioridad Crítico       <br><br><br>      
 
 
 - ID: 03
@@ -69,7 +69,7 @@ El detalle de los errores encontrados serán indicados en el Anexo 2 - “Inform
 - Estado del defecto: Solucionado
 - Corregido por: Adrian Ccoicca
 - Fecha de cierre 17/11/2025
-- Prioridad –  Baja
+- Prioridad –  Baja<br><br><br>
 
 
 
@@ -85,7 +85,7 @@ El detalle de los errores encontrados serán indicados en el Anexo 2 - “Inform
 - Estado del defecto: Solucionado
 - Corregido por: Landry Bardales
 - Fecha de cierre 18/11/2025
-- Prioridad - Media         
+- Prioridad - Media  <br><br><br>       
 
 
 
@@ -101,7 +101,7 @@ El detalle de los errores encontrados serán indicados en el Anexo 2 - “Inform
 - Estado del defecto: Solucionado
 - Corregido por: Landry Bardales
 - Fecha de cierre 20/11/2025
-- Prioridad – Alta   
+- Prioridad – Alta   <br><br><br>
 
 
 
