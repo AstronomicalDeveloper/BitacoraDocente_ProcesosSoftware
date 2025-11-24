@@ -73,14 +73,3 @@ Módulo de soporte para gestionar los estándares de aprendizaje evaluables.
 | Capacidades       | Gestión de capacidades específicas dentro de cada competencia. | `CapacidadListPage.tsx` |
 
 ---
-
-# 4. Módulo de Evaluación y Observación
-
-Transversal al sistema, permite registrar valoraciones cualitativas y cuantitativas.
-
-### Rutinas Backend de Soporte
-
-- `EvaluacionController`: procesa la lógica de notas.
-- `ObservacionController`: administra anotaciones textuales sobre el desempeño.
-
----
