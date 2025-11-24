@@ -1,4 +1,5 @@
 ## Pantallas de interfaz de usuario
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/02138a7f-a93a-4835-bb94-6e0b5db783d2" />
 
 ![WhatsApp Image 2025-11-24 at 8 56 52 AM](https://github.com/user-attachments/assets/f985a65f-a7a3-48cc-8d61-fed2dd1b4462)
 ![WhatsApp Image 2025-11-24 at 8 57 02 AM](https://github.com/user-attachments/assets/4d05b31a-4756-486a-96e3-0115df5f84a8)
