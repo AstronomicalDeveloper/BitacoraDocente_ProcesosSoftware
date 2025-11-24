@@ -53,5 +53,28 @@ El detalle de los errores encontrados serán indicados en el Anexo 2 - “Inform
 
 
 
+- ID: 03
+- Descripción:  Está fallando al compilar el archivo CompetenciaListPage porque encontró un símbolo inesperado, algo que NO debería estar ahí según la sintaxis de TSX.  
+- Pasos:   
+      - Paso 1: Se intenta acceder al menú <img width="2614" height="1259" alt="E03" src="https://github.com/user-attachments/assets/5dc06731-e816-4c5d-92b6-c883d4df4849" />   
+
+
+- Fecha del defecto: 16/11/2025
+
+- Detectado por (Tester)
+- Estado del defecto: Solucionado
+- Corregido por: Adrian Ccoicca
+
+
+
+
+
+
+
+
+
+
+
+
 
 
