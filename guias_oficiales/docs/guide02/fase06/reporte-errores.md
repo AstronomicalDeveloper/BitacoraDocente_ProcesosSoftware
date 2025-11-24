@@ -29,7 +29,7 @@ El detalle de los errores encontrados serán indicados en el Anexo 2 - “Inform
 
 - Detectado por (Tester)
 - Estado del defecto: Solucionado
-- Corregido por: Adrian Ccoicca
+- Corregido por: Adrian Ccoicca    
 
 
 
@@ -49,7 +49,7 @@ El detalle de los errores encontrados serán indicados en el Anexo 2 - “Inform
 
 - Detectado por (Tester)
 - Estado del defecto: Solucionado
-- Corregido por: Landry Bardales
+- Corregido por: Landry Bardales     
 
 
 
@@ -65,6 +65,20 @@ El detalle de los errores encontrados serán indicados en el Anexo 2 - “Inform
 - Estado del defecto: Solucionado
 - Corregido por: Adrian Ccoicca
 
+
+
+
+- ID: 04
+- Descripción:  El error “Link is not defined” ocurrió en el menú, específicamente en la parte superior donde está el Navbar. 
+- Pasos:   
+      - Paso 1: Se intenta acceder al menú <img width="2614" height="1259" alt="E03" src="https://github.com/user-attachments/assets/5dc06731-e816-4c5d-92b6-c883d4df4849" />   
+
+
+- Fecha del defecto: 18/11/2025
+
+- Detectado por (Tester)
+- Estado del defecto: Solucionado
+- Corregido por: Landry Bardales
 
 
 
