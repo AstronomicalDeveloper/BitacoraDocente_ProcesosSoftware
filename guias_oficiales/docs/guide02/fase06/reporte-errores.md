@@ -30,8 +30,9 @@ El detalle de los errores encontrados serán indicados en el Anexo 2 - “Inform
 - Detectado por (Tester)
 - Estado del defecto: Solucionado
 - Corregido por: Adrian Ccoicca    
-
-
+- Fecha de cierre 28/10/2025
+- Prioridad –  Baja  
+ 
 
 
 - ID: 02
@@ -50,7 +51,8 @@ El detalle de los errores encontrados serán indicados en el Anexo 2 - “Inform
 - Detectado por (Tester)
 - Estado del defecto: Solucionado
 - Corregido por: Landry Bardales     
-
+- Fecha de cierre 22/11/2025
+- Prioridad Crítico   
 
 
 - ID: 03
@@ -64,7 +66,8 @@ El detalle de los errores encontrados serán indicados en el Anexo 2 - “Inform
 - Detectado por (Tester)
 - Estado del defecto: Solucionado
 - Corregido por: Adrian Ccoicca
-
+- Fecha de cierre 17/11/2025
+- Prioridad –  Baja
 
 
 
@@ -79,6 +82,27 @@ El detalle de los errores encontrados serán indicados en el Anexo 2 - “Inform
 - Detectado por (Tester)
 - Estado del defecto: Solucionado
 - Corregido por: Landry Bardales
+- Fecha de cierre 18/11/2025
+- Prioridad - Media  
+
+
+
+- ID: 05
+- Descripción:  Al momento de crear una nueva migración devolvió un error que decía que el proyecto desde el que estaba ejecutando la migración no coincidía con el ensamblado donde EF Core espera que estén las migraciones.
+- Pasos:   
+      - Paso 1: Se intenta acceder al menú:    
+
+
+- Fecha del defecto: 20/11/2025
+
+- Detectado por (Tester)
+- Estado del defecto: Solucionado
+- Corregido por: Landry Bardales
+- Fecha de cierre 20/11/2025
+- Prioridad – Alta   
+
+
+
 
 
 
