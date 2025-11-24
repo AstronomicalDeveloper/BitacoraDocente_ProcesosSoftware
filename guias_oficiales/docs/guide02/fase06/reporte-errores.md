@@ -92,7 +92,7 @@ El detalle de los errores encontrados serán indicados en el Anexo 2 - “Inform
 - ID: 05
 - Descripción:  Al momento de crear una nueva migración devolvió un error que decía que el proyecto desde el que estaba ejecutando la migración no coincidía con el ensamblado donde EF Core espera que estén las migraciones.
 - Pasos:   
-      - Paso 1: Se sbe los comandos al terminal:    <img width="2380" height="1338" alt="E05" src="https://github.com/user-attachments/assets/faf67863-dce8-4c11-81a1-a9233d461bd7" />   
+      - Paso 1: Se sube los comandos al terminal:    <img width="2380" height="1338" alt="E05" src="https://github.com/user-attachments/assets/faf67863-dce8-4c11-81a1-a9233d461bd7" />   
  
 - Fecha del defecto: 20/11/2025
 
