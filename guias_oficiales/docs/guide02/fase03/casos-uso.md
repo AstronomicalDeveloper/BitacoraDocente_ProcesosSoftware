@@ -2,7 +2,7 @@
 
 Los casos de uso son una técnica de modelado en el desarrollo de software que describe las interacciones entre los usuarios (actores) y un sistema para lograr un objetivo específico. Son herramientas fundamentales en la ingeniería de requisitos que bridge la comunicación entre stakeholders y desarrolladores.
 
-<img width="452" height="271" alt="Diagrama sin título drawio" src="https://github.com/user-attachments/assets/1b899755-bbef-4ec5-be97-0acb8a29f113" />
+<img width="1264" height="705" alt="Sin título" src="https://github.com/user-attachments/assets/fa193780-6224-4936-8ad8-10e947438450" />
 
 
 
