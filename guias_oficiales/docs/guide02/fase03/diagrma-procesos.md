@@ -33,13 +33,6 @@ Registro de notas:
 
 
 
-EDITAR/ELIMINAR REGISTROS
-
-
-![1000110659](https://github.com/user-attachments/assets/424069d6-2cfc-466e-aa14-a03ea778afa6)
-
-
-
 
 RECALCULAR NIVEL/ALERTAS
 
@@ -47,10 +40,4 @@ RECALCULAR NIVEL/ALERTAS
 ![1000110660](https://github.com/user-attachments/assets/fa88f45a-3a35-43c9-9c51-9d5d9e9860f1)
 
 
-
-
-NAVEGACION EN LA INTERFAZ
-
-
-![1000110658](https://github.com/user-attachments/assets/524a46ae-43f7-47dc-b847-355e0e40467d)
 
