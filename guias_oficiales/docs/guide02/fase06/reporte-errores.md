@@ -34,5 +34,25 @@ El detalle de los errores encontrados serán indicados en el Anexo 2 - “Inform
 
 
 
+- ID: 02
+- Descripción:  El id del estudiante no reinicia a pesar de que es el unico estudiante.  
+
+- Pasos:   
+      - Paso 1: Acceder al menú:  <img width="1366" height="728" alt="menu" src="https://github.com/user-attachments/assets/91dd25ab-e27e-4bbf-90d7-fc7c1c54fb8e" /> 
+      - Paso 2: Hacer click en Estudiante   
+        <img width="400" height="94" alt="hacer clik en estudiante" src="https://github.com/user-attachments/assets/cbd17aef-37fa-42c5-bedb-d94b62da469a" />     
+      - Paso 3: Visualización del error:    
+        <img width="1366" height="726" alt="E02" src="https://github.com/user-attachments/assets/c676cd1c-da0e-4557-be6d-dfbd9b7f694b" />
+
+
+- Fecha del defecto: 28/11/2025
+
+- Detectado por (Tester)
+- Estado del defecto: Solucionado
+- Corregido por: Adrian Ccoicca
+
+
+
+
 
 
