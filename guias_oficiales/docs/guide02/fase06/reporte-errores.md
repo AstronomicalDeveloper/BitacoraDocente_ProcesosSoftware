@@ -71,7 +71,7 @@ El detalle de los errores encontrados serán indicados en el Anexo 2 - “Inform
 - ID: 04
 - Descripción:  El error “Link is not defined” ocurrió en el menú, específicamente en la parte superior donde está el Navbar. 
 - Pasos:   
-      - Paso 1: Se intenta acceder al menú <img width="2614" height="1259" alt="E03" src="https://github.com/user-attachments/assets/5dc06731-e816-4c5d-92b6-c883d4df4849" />   
+      - Paso 1: Se intenta acceder al menú:<img width="2606" height="1252" alt="E04" src="https://github.com/user-attachments/assets/4448e74c-16e7-43be-b693-a625c5c61168" />      
 
 
 - Fecha del defecto: 18/11/2025
