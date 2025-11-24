@@ -25,7 +25,7 @@ El detalle de los errores encontrados serán indicados en el Anexo 2 - “Inform
       - Paso 3: Visualización del error:
         <img width="1366" height="728" alt="E01" src="https://github.com/user-attachments/assets/31b4dc4a-63b7-4ce9-8b60-695da69f0b31" />
 
-- Fecha del defecto: 28/11/2025
+- Fecha del defecto: 28/10/2025
 
 - Detectado por (Tester)
 - Estado del defecto: Solucionado
@@ -35,7 +35,7 @@ El detalle de los errores encontrados serán indicados en el Anexo 2 - “Inform
 
 
 - ID: 02
-- Descripción:  El id del estudiante no reinicia a pesar de que es el unico estudiante.  
+- Descripción:  El id del estudiante no reinicia a pesar de que es el unico estudiante.  Se sigue viendo con el 7
 
 - Pasos:   
       - Paso 1: Acceder al menú:  <img width="1366" height="728" alt="menu" src="https://github.com/user-attachments/assets/91dd25ab-e27e-4bbf-90d7-fc7c1c54fb8e" /> 
@@ -45,12 +45,11 @@ El detalle de los errores encontrados serán indicados en el Anexo 2 - “Inform
         <img width="1366" height="726" alt="E02" src="https://github.com/user-attachments/assets/c676cd1c-da0e-4557-be6d-dfbd9b7f694b" />
 
 
-- Fecha del defecto: 28/11/2025
+- Fecha del defecto: 15/11/2025
 
 - Detectado por (Tester)
 - Estado del defecto: Solucionado
-- Corregido por: Adrian Ccoicca
-
+- Corregido por: Landry Bardales
 
 
 
