@@ -1,25 +1,13 @@
 ## Pruebas de caja negra
-
-Deberán considerar una prueba de caja negra por cada requisito mandatorio (las otras pruebas son opcionales). Para ello deberá considerar:
-
-- Como evidencias deberá incluir las capturas de pantalla o los logs del sistema.
-- El formato a usar para la matriz de trazabilidad de las pruebas realizadas será el siguiente:
-
-![Matriz de trazabilidad de pruebas de caja negra](./matriz-trazabilidad-test.png)
-
-- En caso, haya alguna observación en algunas de las filas, podrá indicarlo fuera de la tabla como texto descriptivo de la observación con el fin de no saturar el contenido de la matriz de trazabilidad.
-
- 
-
 ## Matriz de trazabilidad de las pruebas de caja negra
 | RF     | ID CASO | Descripción breve del caso                    | Entrada(s)                                   | Resultado Esperado                 | Evidencia | Resultado |
 |--------|---------|------------------------------------------------|-----------------------------------------------|------------------------------------|-----------|-----------|
-| RF-01  | CU01    | Crear planificación anual                      | Año: 2025                                     | Planificación creada               |           | OK        |
-| RF-01  | CU02    | Eliminar planificación anual                   | Año: 2025                                     | Planificación eliminada            |           | OK        |
-| RF-02  | CU03    | Registrar unidad de aprendizaje                | Nombre: Matemática / Año: 2025               | Unidad registrada                  |           | OK        |
+| RF-01  | CU01    | Crear planificación anual                      | Ciencia y Ambiente; Año: 2024 |   Planificación creada  | <img width="1541" height="585" alt="image" src="https://github.com/user-attachments/assets/1f888390-5dde-48dc-9c94-abda2adae0e8" />          |  OK   |
+| RF-01  | CU02    | Eliminar planificación anual                   | Ciencia y Ambiente; Año: 2024   | Planificación eliminada            |     <img width="1470" height="438" alt="image" src="https://github.com/user-attachments/assets/145b291f-11d5-43db-8ebe-26d6dee792e0" /> | OK        |
+| RF-02  | CU03    | Registrar unidad de aprendizaje                | PRIMERA UNIDAD               | Unidad registrada     |    <img width="1162" height="664" alt="image" src="https://github.com/user-attachments/assets/7bcc8df6-ae69-4f63-83f9-278cafba471a" /> | OK        |
 | RF-02  | CU04    | Eliminar unidad con sesiones asociadas        | Unidad: Matemática                            | Operación denegada                 |           | Fail      |
-| RF-03  | CU05    | Asociar sesión a una unidad                    | Unidad: Matemática / Sesión: 01              | Sesión asociada                    |           | OK        |
-| RF-04  | CU06    | Registrar sesión                               | Título: Sesión 01 / Fecha: 10-03-2025        | Sesión registrada                  |           | OK        |
+| RF-03  | CU05    | Asociar sesión a una unidad        | prueba - prueba 2              | Sesión asociada     |    <img width="1580" height="777" alt="image" src="https://github.com/user-attachments/assets/79dac907-c079-43c1-b6c4-f0275c5ce970" />  | OK        |
+| RF-04  | CU06    | Registrar sesión           | Título: REGISTRO PRUEBA        | Sesión registrada                  |    <img width="1508" height="777" alt="image" src="https://github.com/user-attachments/assets/0a738069-896a-47e5-8e9f-cd10ded541ef" />       | OK        |
 | RF-06  | CU07    | Registrar asistencia                           | Estudiante X / Sesión 01                     | Asistencia registrada              |           | OK        |
 | RF-07  | CU08    | Configurar umbral de faltas                    | Umbral: 30%                                   | Umbral registrado                  |           | OK        |
 | RF-08  | CU09    | Superar umbral de faltas                       | Inasistencias >= 30%                          | Alerta visible en pantalla         |           | OK        |
