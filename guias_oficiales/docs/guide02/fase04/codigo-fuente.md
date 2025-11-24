@@ -780,6 +780,35 @@ namespace BitacoraDocente.Dominio.Servicios.Implementacion
 - `EstudianteDto`: identificación, tutor, estado activo.
 - `NotaDetalleDto`: bimestre y nota cualitativa (A/B/C).
 
+### 1.7. Entidades del modelo.
+- `Estudiante.cs`
+
+```
+   public class Estudiante
+  {
+      public int EstudianteId { get; set; }
+      public TipoDocumento TipoDocumento { get; set; }
+      public string NumeroDocumento { get; set; } = string.Empty;
+      public string ApellidoPaterno { get; set; } = string.Empty;
+      public string ApellidoMaterno { get; set; } = string.Empty;
+      public string Nombre { get; set; } = string.Empty;
+      public DateOnly FechaNacimiento { get; set; }
+      public TipoGenero Genero { get; set; }
+      public string NombreTutor { get; set; } = string.Empty;
+      public string TelefonoTutor { get; set; } = string.Empty;
+      public bool EstaActivo { get; set; }
+  
+      public ICollection<Asistencia> Asistencias { get; set; } = new List<Asistencia>();
+      public ICollection<Desempenio> Desempenios { get; set; } = new List<Desempenio>();
+      public ICollection<Observacion> Observaciones { get; set; } = new List<Observacion>();
+  
+      public ResultadoOperacion<bool> Validar()
+      {
+          var respuesta = EntidadValidador.ValidarCamposRequeridos(this);
+          return respuesta;
+      }
+  }
+```
 ---
 
 # 2. FRONTEND — HOOKS Y SERVICIOS
